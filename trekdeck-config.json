@@ -1,0 +1,385 @@
+{
+  "pin": "969670",
+  "pages": [
+    {
+      "name": "Работа",
+      "buttons": [
+        {
+          "label": "Браузер",
+          "icon": "🌐",
+          "color": 0,
+          "script": "open https://www.google.com"
+        },
+        {
+          "label": "Проводник",
+          "icon": "📁",
+          "color": 1,
+          "script": "key win+e"
+        },
+        {
+          "label": "Заметки",
+          "icon": "📝",
+          "color": 2,
+          "script": "start notepad.exe"
+        },
+        {
+          "label": "Калькулятор",
+          "icon": "🧮",
+          "color": 3,
+          "script": "start calc.exe"
+        },
+        {
+          "label": "Скриншот",
+          "icon": "📸",
+          "color": 1,
+          "script": "key win+shift+s"
+        },
+        {
+          "label": "Копировать",
+          "icon": "📋",
+          "color": 0,
+          "script": "key ctrl+c"
+        },
+        {
+          "label": "Вставить",
+          "icon": "📥",
+          "color": 0,
+          "script": "key ctrl+v"
+        },
+        {
+          "label": "Отмена",
+          "icon": "↩️",
+          "color": 2,
+          "script": "key ctrl+z"
+        },
+        {
+          "label": "Рабочий стол",
+          "icon": "🖥️",
+          "color": 1,
+          "script": "key win+d"
+        },
+        {
+          "label": "Диспетчер",
+          "icon": "⚙️",
+          "color": 3,
+          "script": "key ctrl+shift+esc"
+        },
+        {
+          "label": "Блокировка",
+          "icon": "🔒",
+          "color": 2,
+          "script": "key win+l"
+        },
+        {
+          "label": "Alt+Tab",
+          "icon": "🔀",
+          "color": 0,
+          "script": "key alt+tab"
+        },
+        {
+          "label": "Закрыть",
+          "icon": "❌",
+          "color": 5,
+          "script": "key alt+f4"
+        },
+        {
+          "label": "Найти",
+          "icon": "🔎",
+          "color": 1,
+          "script": "key ctrl+f"
+        },
+        {
+          "label": "Поиск Win",
+          "icon": "🔍",
+          "color": 3,
+          "script": "key win+s"
+        }
+      ]
+    },
+    {
+      "name": "Стрим",
+      "buttons": [
+        {
+          "label": "Сцена 1",
+          "icon": "🎬",
+          "color": 0,
+          "script": "key ctrl+alt+1"
+        },
+        {
+          "label": "Сцена 2",
+          "icon": "🎬",
+          "color": 1,
+          "script": "key ctrl+alt+2"
+        },
+        {
+          "label": "Сцена 3",
+          "icon": "🎬",
+          "color": 2,
+          "script": "key ctrl+alt+3"
+        },
+        {
+          "label": "Сцена 4",
+          "icon": "🎬",
+          "color": 3,
+          "script": "key ctrl+alt+4"
+        },
+        {
+          "label": "Микрофон",
+          "icon": "🎤",
+          "color": 5,
+          "script": "key ctrl+alt+m"
+        },
+        {
+          "label": "Запись",
+          "icon": "🔴",
+          "color": 5,
+          "script": "key ctrl+alt+r"
+        },
+        {
+          "label": "Эфир",
+          "icon": "📡",
+          "color": 0,
+          "script": "key ctrl+alt+s"
+        },
+        {
+          "label": "Камера",
+          "icon": "📷",
+          "color": 1,
+          "script": "key ctrl+alt+c"
+        },
+        {
+          "label": "Чат",
+          "icon": "💬",
+          "color": 2,
+          "script": "open https://www.twitch.tv"
+        },
+        {
+          "label": "Звук",
+          "icon": "🔇",
+          "color": 3,
+          "script": "media mute"
+        },
+        {
+          "label": "Громче",
+          "icon": "🔊",
+          "color": 0,
+          "script": "media volup"
+        },
+        {
+          "label": "Тише",
+          "icon": "🔉",
+          "color": 1,
+          "script": "media voldown"
+        },
+        {
+          "label": "Game Bar",
+          "icon": "🎮",
+          "color": 2,
+          "script": "key win+g"
+        },
+        {
+          "label": "Клип",
+          "icon": "✂️",
+          "color": 3,
+          "script": "key win+alt+g"
+        },
+        {
+          "label": "Скриншот",
+          "icon": "📸",
+          "color": 0,
+          "script": "key win+shift+s"
+        }
+      ]
+    },
+    {
+      "name": "Игры",
+      "buttons": [
+        {
+          "label": "Alt+Tab",
+          "icon": "🔀",
+          "color": 0,
+          "script": "key alt+tab"
+        },
+        {
+          "label": "Game Bar",
+          "icon": "🎮",
+          "color": 1,
+          "script": "key win+g"
+        },
+        {
+          "label": "Запись",
+          "icon": "🔴",
+          "color": 5,
+          "script": "key win+alt+r"
+        },
+        {
+          "label": "Скриншот",
+          "icon": "📸",
+          "color": 2,
+          "script": "key win+alt+prtsc"
+        },
+        {
+          "label": "Steam",
+          "icon": "🕹️",
+          "color": 3,
+          "script": "open steam://open/main"
+        },
+        {
+          "label": "Discord",
+          "icon": "💬",
+          "color": 4,
+          "script": "open https://discord.com/app"
+        },
+        {
+          "label": "Звук",
+          "icon": "🔇",
+          "color": 1,
+          "script": "media mute"
+        },
+        {
+          "label": "Громче",
+          "icon": "🔊",
+          "color": 0,
+          "script": "media volup"
+        },
+        {
+          "label": "Тише",
+          "icon": "🔉",
+          "color": 2,
+          "script": "media voldown"
+        },
+        {
+          "label": "Диспетчер",
+          "icon": "⚙️",
+          "color": 3,
+          "script": "key ctrl+shift+esc"
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        }
+      ]
+    },
+    {
+      "name": "Медиа",
+      "buttons": [
+        {
+          "label": "Пауза",
+          "icon": "⏯️",
+          "color": 0,
+          "script": "media playpause"
+        },
+        {
+          "label": "Назад",
+          "icon": "⏮️",
+          "color": 1,
+          "script": "media prev"
+        },
+        {
+          "label": "Вперёд",
+          "icon": "⏭️",
+          "color": 1,
+          "script": "media next"
+        },
+        {
+          "label": "Стоп",
+          "icon": "⏹️",
+          "color": 2,
+          "script": "media stop"
+        },
+        {
+          "label": "Звук",
+          "icon": "🔇",
+          "color": 3,
+          "script": "media mute"
+        },
+        {
+          "label": "Громче",
+          "icon": "🔊",
+          "color": 0,
+          "script": "media volup"
+        },
+        {
+          "label": "Тише",
+          "icon": "🔉",
+          "color": 1,
+          "script": "media voldown"
+        },
+        {
+          "label": "YouTube",
+          "icon": "▶️",
+          "color": 5,
+          "script": "open https://www.youtube.com"
+        },
+        {
+          "label": "Spotify",
+          "icon": "🎵",
+          "color": 3,
+          "script": "start spotify.exe"
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        },
+        {
+          "label": "",
+          "icon": "",
+          "color": 0,
+          "script": ""
+        }
+      ]
+    }
+  ]
+}
